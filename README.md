@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/1013-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
