@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
