@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0066-plus-one) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0268-missing-number) |
 ## Binary Search
