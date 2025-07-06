@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/1013-fibonacci-number) |
