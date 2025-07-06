@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -79,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
