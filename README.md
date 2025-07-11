@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1755-defuse-the-bomb](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/1755-defuse-the-bomb) |
 ## Math
 |  |
 | ------- |
@@ -87,4 +88,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1755-defuse-the-bomb](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
