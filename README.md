@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0169-majority-element) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0169-majority-element) |
 ## Counting
 |  |
