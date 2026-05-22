@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1646-get-maximum-in-generated-array](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/1646-get-maximum-in-generated-array) |
 | [1755-defuse-the-bomb](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/1755-defuse-the-bomb) |
 ## Math
 |  |
@@ -95,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/1755-defuse-the-bomb) |
+## Simulation
+|  |
+| ------- |
+| [1646-get-maximum-in-generated-array](https://github.com/sdhage1502/LeetCODE-Problems/tree/master/1646-get-maximum-in-generated-array) |
 <!---LeetCode Topics End-->
